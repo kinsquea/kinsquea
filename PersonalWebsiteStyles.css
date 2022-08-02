@@ -1,0 +1,89 @@
+body{
+	background-image: url(yellowFlowers.jpeg);
+	background-size: 200px;
+}
+	h1, h2, p {
+  text-align: center;
+}
+
+.main quote {
+	font-size: 400px;
+}
+
+h1{
+	color: deeppink;
+}
+
+h2{
+	color: lightpink;
+	font-family: monospace;
+}
+.menu {
+  width: 47%;
+  background-color: lightgoldenrodyellow;
+  display: inline-block;
+  margin left: auto;
+  margin right: auto;
+  margin-bottom: 50px;
+  padding-left: 20px;
+	padding-right: 20px;
+  float: left;
+  height: 300px;
+
+}
+
+
+.menuTwo, .menuThree {
+	width:47%;
+	background-color: seagreen;
+	display: inline-block;
+	margin left: auto;
+	margin right: auto;
+	padding-left: 20px;
+	padding-right: 20px;
+	float: right;
+	height: 150px;
+
+
+
+}
+.menuThree {
+	background-color: palevioletred;
+	margin-bottom: 50px;
+
+}
+
+
+
+.item p {
+  display: inline-block;
+}
+
+.favColour, .favAnimal {
+  text-align: left;
+  width: 50%;
+}
+
+.colourMeaning, .animalReason {
+  text-align: right;
+  width: 50%
+}
+
+hr{
+	height:  1px;
+}
+
+a {
+	color: forestgreen;
+}
+a:hover {
+	color:  powderblue;
+}
+
+a:visited{
+
+}
+
+a:active{
+
+}
